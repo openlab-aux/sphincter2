@@ -1,0 +1,3 @@
+[submodule "cad"]
+	path = cad
+	url = git@github.com:openlab-aux/sphincter2-cad.git
